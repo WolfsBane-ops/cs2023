@@ -357,7 +357,7 @@ else:
             continue
 
 
-######################### PROGRAM 7 ####################################
+######################### PROGRAM 8 ####################################
 
 '''create a student dictionary containing names and marks as key:value pairs for 5 students.
 write a stack inplementation program with seperate user defined functions for the following
